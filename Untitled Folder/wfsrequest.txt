@@ -1,0 +1,1 @@
+https://geonode.paranagua.pr.gov.br/geoserver/ows?outputFormat=SHAPE-ZIP&service=WFS&srs=EPSG%3A31982&request=GetFeature&format_options=charset%3AUTF-8&typename=geonode%3Aa__031_002_macrorregioesBrasil&version=1.0.0
